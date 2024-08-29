@@ -4,3 +4,4 @@
 "Cambio en rama nueva-funcionalidad" 
 >>>>>>> nueva-funcionalidad
 "Modificaci¢n en la rama principal." 
+"Resolver conflicto" 
